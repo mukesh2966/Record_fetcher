@@ -1,0 +1,2 @@
+uses socket programming(in C) to search for records, using self-prepraped protocol.
+Detailed information about the same is given in clien-server documentation.
